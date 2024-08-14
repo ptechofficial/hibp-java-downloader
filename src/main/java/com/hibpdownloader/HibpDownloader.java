@@ -1,4 +1,4 @@
-package com.hibpdownloader.dotnet;
+package com.hibpdownloader;
 
 import java.io.BufferedWriter;
 import java.io.File;

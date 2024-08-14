@@ -17,7 +17,7 @@ This Java-based application fetches hash ranges from the "Have I Been Pwned" API
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/hibp-downloader.git
+    git clone https://github.com/ptechofficial/hibp-java-downloader.git
     cd hibp-downloader
     ```
 
@@ -28,7 +28,7 @@ This Java-based application fetches hash ranges from the "Have I Been Pwned" API
 
 3. **Run the Application**:
     ```bash
-    java -cp target/hibp-downloader-1.0-SNAPSHOT.jar com.hibpdownloader.dotnet.HibpDownloader
+    java -cp target/hibp-downloader-1.0-SNAPSHOT.jar com.hibpdownloader.HibpDownloader
     ```
 
 ## Usage

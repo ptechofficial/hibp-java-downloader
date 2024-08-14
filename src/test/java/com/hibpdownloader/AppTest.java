@@ -1,4 +1,4 @@
-package com.hibpdownloader.dotnet;
+package com.hibpdownloader;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
